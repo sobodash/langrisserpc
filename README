@@ -1,0 +1,18 @@
+langrisserpc
+===========
+
+This is a series of tools I am writing for working with Langrisser (I or II)
+PC. Currently the archive includes the following:
+
+* langpcdump    - A script for dumping a Langrisser PC resource (.res) file
+                  to a folder of the same name. Dumps with script symbols.
+
+* langpcbuild   - Builds a new Langrisser PC resource file using a folder
+                  using the contents of a specified folder. Accepts script
+                  symbol input and converts ASCII to game format text.
+
+* langpcresdump - As of langpcdump 1.5, you can no longer use that script to
+                  dump non-script resource files. This should be used instead.
+
+Check the individual .php files for more documentation and notes.
+
