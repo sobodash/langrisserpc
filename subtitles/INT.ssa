@@ -1,0 +1,27 @@
+[Script Info]
+; This is a Sub Station Alpha v4 script.
+; For Sub Station Alpha info and downloads,
+; go to http://www.eswat.demon.co.uk/
+; or email kotus@eswat.demon.co.uk
+Title: Langrisser I (INT.stv)
+ScriptType: v4.00
+Collisions: Normal
+PlayResY: 240
+PlayDepth: 0
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: MainB,Tahoma,14,65535,65280,65535,0,-1,0,1,2,4,2,16,16,16,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:02.60,0:00:05.27,MainB,,0000,0000,0000,!Effect,It seems I've lost...
+Dialogue: Marked=0,0:00:05.99,0:00:11.72,MainB,,0000,0000,0000,!Effect,But to have any lasting peace, you need power....!
+Dialogue: Marked=0,0:00:12.80,0:00:16.27,MainB,,0000,0000,0000,!Effect,Unification can only be achieved through power!
+Dialogue: Marked=0,0:00:17.10,0:00:20.39,MainB,,0000,0000,0000,!Effect,And what is the cost of unification through power?!
+Dialogue: Marked=0,0:00:22.01,0:00:27.01,MainB,,0000,0000,0000,!Effect,Because of this war, ancient evils have been unsealed!
+Dialogue: Marked=0,0:00:29.62,0:00:32.48,MainB,,0000,0000,0000,!Effect,With power, you could reseal the evil...
+Dialogue: Marked=0,0:00:35.61,0:00:44.18,MainB,,0000,0000,0000,!Effect,In the end... you and I... are the same.
+Dialogue: Marked=0,0:00:51.35,0:00:54.26,MainB,,0000,0000,0000,!Effect,Our kingdom will never rule by terror and force...
+Dialogue: Marked=0,0:00:55.33,0:00:55.96,MainB,,0000,0000,0000,!Effect,Never!

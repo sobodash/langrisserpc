@@ -1,0 +1,510 @@
+        <>
+
+Fighter   <>
+
+Fighter   <>
+
+Fighter   <>
+
+Gladiator   <>
+
+Vampire   <>
+
+Knight   <>
+
+Knight   <>
+
+Pirate   <>
+
+Hawk Knight   <>
+
+Hawk Knight   <>
+
+Sister   <>
+
+Shaman   <>
+
+Warlock   <>
+
+Warlock   <>
+
+Werewolf   <>
+
+Gelgazer   <>
+
+Ghost   <>
+
+Scylla   <>
+
+Roc   <>
+
+Lord   <>
+
+Lord   <>
+
+Lord   <>
+
+Pirate   <>
+
+Assassin   <>
+
+Silver Knight    <>
+
+Silver Knight    <>
+
+Silver Knight    <>
+
+Captain   <>
+
+Captain   <>
+
+Hawk Lord   <>
+
+Hawk Lord   <>
+
+Cleric   <>
+
+Necromancer   <>
+
+Sorcerer   <>
+
+Sorcerer   <>
+
+Sorcerer   <>
+
+Paladin   <>
+
+Paladin   <>
+
+Kerberos   <>
+
+Dullahan   <>
+
+Lich   <>
+
+Serpent   <>
+
+Wyvern   <>
+
+High Lord   <>
+
+High Lord   <>
+
+High Lord   <>
+
+Swordsman   <>
+
+Swordsman   <>
+
+Highlander   <>
+
+Highlander   <>
+
+Highlander   <>
+
+Serpent Knight    <>
+
+Gladiator   <>
+
+Dragon Knight   <>
+
+Dragon Knight   <>
+
+Priest   <>
+
+Summoner   <>
+
+Mage   <>
+
+Mage   <>
+
+Mage   <>
+
+Saint   <>
+
+Saint   <>
+
+Unicorn Knight   <>
+
+Minotaur   <>
+
+Living Armor   <>
+
+Succubus   <>
+
+Kraken   <>
+
+Phoenix   <>
+
+General   <>
+
+General   <>
+
+General   <>
+
+Sword Master    <>
+
+Sword Master    <>
+
+Knight Master    <>
+
+Knight Master    <>
+
+Knight Master    <>
+
+Serpent Lord    <>
+
+Pirate   <>
+
+Dragon Lord    <>
+
+Dragon Lord    <>
+
+High Priest   <>
+
+Zauberer   <>
+
+Zauberer   <>
+
+Arch Mage   <>
+
+Arch Mage   <>
+
+Arch Mage   <>
+
+Sage   <>
+
+Sage   <>
+
+Ranger   <>
+
+Ranger   <>
+
+Master Dino    <>
+
+Stone Golem   <>
+
+Vampire Lord    <>
+
+Jormungand   <>
+
+Great Dragon    <>
+
+King   <>
+
+Emperor   <>
+
+Hero   <>
+
+Hero   <>
+
+Hero   <>
+
+Queen   <>
+
+Royal Guard   <>
+
+Royal Guard   <>
+
+Royal Guard   <>
+
+Royal Guard   <>
+
+Serpent Master   <>
+
+Dragon Master   <>
+
+Agent   <>
+
+Dark Master    <>
+
+Dark Master    <>
+
+Wizard   <>
+
+Wizard   <>
+
+Wizard   <>
+
+Wizard   <>
+
+Princess   <>
+
+Sorcerer   <>
+
+High Master   <>
+
+High Master   <>
+
+Monk   <>
+
+Barbarian   <>
+
+Soldier   <>
+
+Soldier   <>
+
+Soldier   <>
+
+Berzerker   <>
+
+Grenadier   <>
+
+Grenadier   <>
+
+Grenadier   <>
+
+Dark Guard   <>
+
+Lancer   <>
+
+Trooper   <>
+
+Trooper   <>
+
+Hellhound   <>
+
+Royal Lancer   <>
+
+Dragoon   <>
+
+Dragoon   <>
+
+Bone Dino   <>
+
+Pikemen   <>
+
+Pikemen   <>
+
+Pikemen   <>
+
+Phalanx   <>
+
+Phalanx   <>
+
+Phalanx   <>
+
+Golem   <>
+
+Elf   <>
+
+Elf   <>
+
+Elf   <>
+
+Dark Elf   <>
+
+High Elf   <>
+
+High Elf   <>
+
+Crawler   <>
+
+Witch   <>
+
+Ballista   <>
+
+Ballista   <>
+
+Ballista   <>
+
+Ant   <>
+
+Ghost   <>
+
+Spectre   <>
+
+Demon   <>
+
+Arch Demon   <>
+
+Mermen   <>
+
+Mermen   <>
+
+Lizardman   <>
+
+Lizardman   <>
+
+Nixie   <>
+
+Nixie   <>
+
+Leviathan   <>
+
+Leviathan   <>
+
+Harpy   <>
+
+Harpy   <>
+
+Fairy   <>
+
+Bat   <>
+
+Griffin   <>
+
+Griffin   <>
+
+Angel   <>
+
+Gargoyle   <>
+
+Monk   <>
+
+Barbarian   <>
+
+Crusader   <>
+
+Queen Ant   <>
+
+Barbarian   <>
+
+Barbarian   <>
+
+Bandit   <>
+
+Bandit   <>
+
+Zombie   <>
+
+Skeleton   <>
+
+Wolfman   <>
+
+Ogre   <>
+
+Gel   <>
+
+Elemental   <>
+
+Civilian   <>
+
+Valkyrie   <>
+
+Freiya   <>
+
+White Dragon   <>
+
+Salamander   <>
+
+Iron Golem   <>
+
+Demon Lord   <>
+
+Sleipnir   <>
+
+Fenrir   <>
+
+Aniki   <>
+
+Builder   <>
+
+King   <>
+
+Emperor   <>
+
+Emperor<>
+
+Assassin   <>
+
+Shaman   <>
+
+Shaman   <>
+
+Silver Knight    <>
+
+Knight Master    <>
+
+Silver Knight    <>
+
+Lord   <>
+
+Zauberer   <>
+
+Dragon Lord    <>
+
+Arch Mage   <>
+
+Paladin   <>
+
+Monk   <>
+
+Knight   <>
+
+Trooper   <>
+
+Grand Knight    <>
+
+Assassin   <>
+
+Berzerker<>
+
+Crusader   <>
+
+Leviathan   <>
+
+Wizard   <>
+
+High Priest   <>
+
+Chaos   <>
+
+Bishop   <>
+
+Lushiris   <>
+
+Sorcerer   <>
+
+Silver Knight    <>
+
+Necromancer   <>
+
+Saint   <>
+
+Mage   <>
+
+Swordsman   <>
+
+Basilisk   <>
+
+Saint   <>
+
+Summoner   <>
+
+Swordsman   <>
+
+Serpent Knight    <>
+
+Priest   <>
+
+Hawk Knight   <>
+
+Dragon Lord    <>
+
+Sage   <>
+
+Sage   <>
+
+Arch Mage   <>
+
+General   <>
+
+Sword Master    <>
+
+Serpent Lord    <>
+
+Sword Master    <>
+
+High Priest   <>
+
+Efreet   <>
+
+General   <>
+
+Grand Knight    <>
+
+Grand Knight    <>
+
+Knight   <>
+

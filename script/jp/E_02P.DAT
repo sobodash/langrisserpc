@@ -1,0 +1,21 @@
+
+          Scenario-02
+         "To Salrath"<clsr>
+  The young prince, Ledin, and
+Volkoff escaped from the castle
+under, guided by Narm's troops.<clsr>
+  While on the road to Salrath,
+Ledin met a young priestess named
+Kris. He decided to protect her
+on her journey there.
+  However, a band of thieves had
+set their sights on them...<clsr>
+Winning Conditions
+- Kris escapes to the gate in the
+  upper-left of the map
+- Defeat of all enemies
+Losing Conditions
+- Death of Ledin
+- Death of Kris<clsr>
+ <>
+
